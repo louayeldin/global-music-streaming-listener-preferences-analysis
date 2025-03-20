@@ -5,8 +5,7 @@
 This project analyzes a global dataset of music streaming listeners to understand patterns and preferences in terms of streaming platforms, genres, artists, and user behaviors. The analysis covers demographic-based insights, streaming habits, and user engagement rates, providing data-driven observations for the global music streaming industry.
 
 # Dataset Description
-
-Source: Global_Music_Streaming_Listener_Preferences.csv 
+[Global_Music_Streaming_Listener_Preferences.csv](https://github.com/louayeldin/global-music-streaming-listener-preferences-analysis/blob/main/data/Global_Music_Streaming_Listener_Preferences.csv)
 
 # Key Columns:
 
